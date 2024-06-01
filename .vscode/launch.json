@@ -1,0 +1,2 @@
+{"version": "0.2.0","configurations": [{"type": "java","name": "Launch Main",
+"request": "launch","mainClass": "Main","vmArgs": "--module-path C:/Users/WERONIKA/Documents/javafx-sdk-21.0.3/lib--add-modules javafx.controls,javafx.fxml"}]}
